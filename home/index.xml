@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Anqi (Angie) Liu</title>
+    <link>https://anqiliu-ai.github.io/home/</link>
+    <description>Recent content in Homes on Anqi (Angie) Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://anqiliu-ai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://anqiliu-ai.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/home/about/</guid>
+      <description>I am a DOLCIT postdoctoral fellow in Department of Computing and Mathematical Sciences (CMS) at California Institute of Technology (Caltech), working with Prof. Yisong Yue and Prof. Anima Anandkumar.
+I received my Ph.D. in Department of Computer Science, University of Illinois at Chicago (UIC). I was fortunate to have Prof. Brian Ziebart as my advisor.
+My research interest lies in machine learning and its applications. I am currently working on conservative prediction, domain shift, interactive machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://anqiliu-ai.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
