@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://anqiliu-ai.github.io/project/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://anqiliu-ai.github.io/project/social/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://anqiliu-ai.github.io/</loc>
       <lastmod>2016-04-20T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -30,6 +46,15 @@
     <url>
     
       <loc>https://anqiliu-ai.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://anqiliu-ai.github.io/tags/trustworthy-social-media/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
