@@ -19,7 +19,7 @@
       
       <guid>https://anqiliu-ai.github.io/project/drl/</guid>
       <description>This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.
-Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data.</description>
+Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. [under construction]</description>
     </item>
     
     <item>

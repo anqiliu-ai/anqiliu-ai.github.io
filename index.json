@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.\nDistributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data.\n",
+    "content": "This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.\nDistributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. [under construction]\n",
     "date": 1461740400,
     "expirydate": -62135596800,
     "kind": "page",
