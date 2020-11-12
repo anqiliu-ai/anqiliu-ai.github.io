@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Distributionally Robust Learning under Distribution Shift</title>
+      <link>https://anqiliu-ai.github.io/project/drl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/project/drl/</guid>
+      <description>&lt;p&gt;This project cover&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Trustworthy Social Media</title>
       <link>https://anqiliu-ai.github.io/project/social/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
@@ -22,15 +32,19 @@
 
 &lt;p&gt;Here are some featured projects:&lt;/p&gt;
 
-&lt;p&gt;1.Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;*Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates. In Neurips workshp: AI for Social Good, 2019.&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf&#34;&gt;Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates&lt;/a&gt;. In Neurips workshp: AI for Social Good, 2019.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;*Tracking Social Media Movements with Dynamic Keyword Algorithm. In American Political Science Association Annal Meeting and Exhibition, 2020 &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/polmeth.pdf&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/polmeth.pdf&#34;&gt;Tracking Social Media Movements with Dynamic Keyword Algorithm&lt;/a&gt;. In American Political Science Association Annal Meeting and Exhibition, 2020 [Poster]&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;*Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models. In ICML WIML Un-Workshop, 2020.&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml.png&#34;&gt;Poster&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml.png&#34;&gt;Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models&lt;/a&gt;. In ICML WIML Un-Workshop, 2020.[Poster]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;#2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic:&lt;/p&gt;
+&lt;!-- 2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic: --&gt;
 
 &lt;p&gt;Contributors&lt;a name=&#34;contributors&#34;&gt;&lt;/a&gt;:&lt;a href=&#34;https://twitter.com/mayasrikanth1&#34; target=&#34;_blank&#34;&gt;Maya Srikanth&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/SaraKangaslahti&#34; target=&#34;_blank&#34;&gt;Sara Kangaslahti&lt;/a&gt;, &lt;a href=&#34;https://www.nadamscohen.com/&#34; target=&#34;_blank&#34;&gt;Nicholas Adams-Cohen&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/jian-cao&#34; target=&#34;_blank&#34;&gt;Jian Cao&lt;/a&gt;, &lt;a href=&#34;http://jeankossaifi.com/&#34; target=&#34;_blank&#34;&gt;Jean Kossaifi&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/r-m-michael-alvarez&#34; target=&#34;_blank&#34;&gt;Mike Alvarez&lt;/a&gt;, and &lt;a href=&#34;http://tensorlab.cms.caltech.edu/users/anima/&#34; target=&#34;_blank&#34;&gt;Anima Anandkumar&lt;/a&gt;.&lt;/p&gt;
 </description>
