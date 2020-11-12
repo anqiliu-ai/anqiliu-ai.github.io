@@ -16,7 +16,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://anqiliu-ai.github.io/project/drl/</guid>
-      <description>&lt;p&gt;This project cover&lt;/p&gt;
+      <description>&lt;p&gt;This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.&lt;/p&gt;
+
+&lt;p&gt;Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,13 +38,11 @@
 &lt;li&gt;Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf&#34;&gt;Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates&lt;/a&gt;. In Neurips workshp: AI for Social Good, 2019.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;* &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf&#34;&gt;Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates&lt;/a&gt;. In Neurips workshp: AI for Social Good, 2019.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/polmeth.pdf&#34;&gt;Tracking Social Media Movements with Dynamic Keyword Algorithm&lt;/a&gt;. In American Political Science Association Annal Meeting and Exhibition, 2020 [Poster]&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;* &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/polmeth.pdf&#34;&gt;Tracking Social Media Movements with Dynamic Keyword Algorithm&lt;/a&gt;. In American Political Science Association Annal Meeting and Exhibition, 2020.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml.png&#34;&gt;Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models&lt;/a&gt;. In ICML WIML Un-Workshop, 2020.[Poster]&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;* &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml.png&#34;&gt;Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models&lt;/a&gt;. In ICML WIML Un-Workshop, 2020.&lt;/p&gt;
 
 &lt;!-- 2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic: --&gt;
 

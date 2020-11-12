@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "This project cover\n",
+    "content": "This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.\nDistributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data.\n",
     "date": 1461740400,
     "expirydate": -62135596800,
     "kind": "page",
@@ -13,7 +13,7 @@
     "publishdate": "2016-04-27T00:00:00-07:00",
     "relpermalink": "/project/drl/",
     "section": "project",
-    "summary": "This project cover",
+    "summary": "This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning to its integration to real-world safe exploration and domain adaption tasks.",
     "tags": null,
     "title": "Distributionally Robust Learning under Distribution Shift",
     "type": "project"
@@ -21,7 +21,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members here!\nWe aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: what a healthier public communication environment would be like in this era? And how can machine learning help?\nHere are some featured projects:\n Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?   Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates. In Neurips workshp: AI for Social Good, 2019.\n Tracking Social Media Movements with Dynamic Keyword Algorithm. In American Political Science Association Annal Meeting and Exhibition, 2020 [Poster]\n Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models. In ICML WIML Un-Workshop, 2020.[Poster]\n  Contributors:Maya Srikanth, Sara Kangaslahti, Nicholas Adams-Cohen, Jian Cao, Jean Kossaifi, Mike Alvarez, and Anima Anandkumar.\n",
+    "content": "This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members here!\nWe aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: what a healthier public communication environment would be like in this era? And how can machine learning help?\nHere are some featured projects:\n Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?  \u0026nbsp;\u0026nbsp;* Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates. In Neurips workshp: AI for Social Good, 2019.\n\u0026nbsp;\u0026nbsp;* Tracking Social Media Movements with Dynamic Keyword Algorithm. In American Political Science Association Annal Meeting and Exhibition, 2020.\n\u0026nbsp;\u0026nbsp;* Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models. In ICML WIML Un-Workshop, 2020.\nContributors:Maya Srikanth, Sara Kangaslahti, Nicholas Adams-Cohen, Jian Cao, Jean Kossaifi, Mike Alvarez, and Anima Anandkumar.\n",
     "date": 1461740400,
     "expirydate": -62135596800,
     "kind": "page",
