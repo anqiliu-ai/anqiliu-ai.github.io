@@ -932,10 +932,12 @@ article .article-metadata {
 }
 
 #projects.home-section li:last-of-type {
+  font-size: 1rem;
   margin-bottom: 0;
 }
 
 #projects.home-section .project-title {
+  font-size: 2rem;
   margin-bottom: 6px;
 }
 
