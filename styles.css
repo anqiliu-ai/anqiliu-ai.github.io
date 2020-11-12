@@ -940,12 +940,12 @@ article .article-metadata {
 }
 
 #projects.home-section .project-summary {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-bottom: 0.4rem;
 }
 
 #projects.home-section .project-tags {
-  font-size: 0.75rem;
+  font-size: 1rem;
   color: #9c9c9c;
 }
 
