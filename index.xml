@@ -11,14 +11,53 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Distributionally Robust Learning under Distribution Shift</title>
+      <title>Distributionally Robust Learning under Covariate Shift</title>
       <link>https://anqiliu-ai.github.io/project/drl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/project/drl/</guid>
-      <description>&lt;p&gt;This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.&lt;/p&gt;
+      <description>&lt;p&gt;This project covers a series of my work, ranging from fundermentals of  distributionally robust learning under covariate shift, to its integration to real-world safe exploration and domain adaption tasks.&lt;/p&gt;
 
-&lt;p&gt;Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. [under construction]&lt;/p&gt;
+&lt;p&gt;Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. Instead of focusing on the robustness against adversarial perturbations on the covariate variables, as in many recent literature, I focus on using conditional output distributions as adversaries. This formulation has two major advantages: (1) It provides a conservative way to quantify the model uncertainties under covariate shift, which benefits data collection and experimental design on various real-world tasks. (2) It provides consistent predictors for minimizing non-smooth loss functions, which is usually elusive for the empirical risk minimization framework.&lt;/p&gt;
+
+&lt;p&gt;Here are some featured papers in this line of work:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In the vanilla supervised learning setting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The first paper using logloss in the framework under covariate shift: the robust bias-aware classifier: Anqi Liu and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias&#34; target=&#34;_blank&#34;&gt;Robust Classification under Sample Selection Bias&lt;/a&gt;”, In NIPS2014. Spotlight.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The first paper minimizing non-smooth loss function in this framework that provides consistent analytical solutions for minimax games under constraints: Rizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective&#34; target=&#34;_blank&#34;&gt;Adversarial Multiclass Classification: A Risk Minimization Perspective&lt;/a&gt;”, In NIPS2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The first paper solving regression problems in this framework under covariate shift that directly predicts Gaussian mean and variance for uncertainty estimation in continous problems: Xiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “&lt;a href=&#34;http://proceedings.mlr.press/v51/chen16d.pdf&#34; target=&#34;_blank&#34;&gt;Robust Covariate Shift Regression&lt;/a&gt;”, In AISTATS2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The first paper providing unified solutions for the framework under the general loss settings, like for cost-sensitive and abstaining loss functions:  Rizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1812.07526&#34; target=&#34;_blank&#34;&gt;Consistent Robust Adversarial Prediction for General Multiclass Classification&lt;/a&gt;&amp;rdquo;, On Arxiv 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the interactive learning setting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The first paper tackling the sample bias problems in active learning from a robust learning point of view: Anqi Liu, Lev Reyzin, and Brian D. Ziebart “&lt;a href=&#34;https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9755&#34; target=&#34;_blank&#34;&gt;Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction&lt;/a&gt;”, In AAAI2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The first paper integrating the conservative uncertainty quantification to help improve safe exploration efficiency and constraint satisfaction in real-world systems: Anqi Liu, Guanya Shi, Soon-Jo Chung, Anima Anandkumar, and Yisong Yue &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1906.05819&#34; target=&#34;_blank&#34;&gt;Robust Regression for Safe Exploration in Control&lt;/a&gt;&amp;rdquo;, In L4DC 2020.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The first paper providing robust dynamics estimation and end-to-end guarantees for safe planning in stochastic control systems:
+Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and Soon-Jo Chung. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2005.04374&#34; target=&#34;_blank&#34;&gt;Chance-Constrained Trajectory Optimization for Safe Exploration and Learning of Nonlinear Systems&lt;/a&gt;&amp;rdquo;, RA-L, 2020.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the large-scale learning setting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The first paper scaling up the distributional robust learning under covariate shift to solve large scale sim-to-real unsupervised domain adaptation tasks: Haoxuan Wang, Anqi Liu, Zhiding Yu, Yisong Yue, and Anima Anandkumar. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/2010.05784v1.pdf&#34; target=&#34;_blank&#34;&gt;Distributionally Robust Learning for Unsupervised Domain Adaptation&lt;/a&gt;&amp;rdquo;, on Arxiv 2020.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the fair learning setting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The first paper dealing with the intersection between covariate shift and fairness from a robust learning point of view: Ashkan Rezaei, Anqi Liu, Omid Memarrast, and Brian D. Ziebart. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/2010.05166.pdf&#34; target=&#34;_blank&#34;&gt;Robust Fairness Under Covariate Shift&lt;/a&gt;&amp;rdquo;, on Arxiv 2020.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -52,7 +91,7 @@
 
 &lt;!-- 2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic: --&gt;
 
-&lt;p&gt;Contributors&lt;a name=&#34;contributors&#34;&gt;&lt;/a&gt;:&lt;a href=&#34;https://www.linkedin.com/in/maya-s-srikanth&#34; target=&#34;_blank&#34;&gt;Maya Srikanth&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sara-kangaslahti&#34; target=&#34;_blank&#34;&gt;Sara Kangaslahti&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/daniel-ebanks-9b89a298&#34; target=&#34;_blank&#34;&gt;Danny Ebanks&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shunto-kobayashi-323015113&#34; target=&#34;_blank&#34;&gt;Shunto J. Kobayashi&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shiyu-zhang-1783608b&#34; target=&#34;_blank&#34;&gt;Shiyu Zhang&lt;/a&gt;, &lt;a href=&#34;https://www.nadamscohen.com/&#34; target=&#34;_blank&#34;&gt;Nicholas Adams-Cohen&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/jian-cao&#34; target=&#34;_blank&#34;&gt;Jian Cao&lt;/a&gt;, &lt;a href=&#34;http://jeankossaifi.com/&#34; target=&#34;_blank&#34;&gt;Jean Kossaifi&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/r-m-michael-alvarez&#34; target=&#34;_blank&#34;&gt;Mike Alvarez&lt;/a&gt;, and &lt;a href=&#34;http://tensorlab.cms.caltech.edu/users/anima/&#34; target=&#34;_blank&#34;&gt;Anima Anandkumar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contributors&lt;a name=&#34;contributors&#34;&gt;&lt;/a&gt;: &lt;a href=&#34;https://www.linkedin.com/in/maya-s-srikanth&#34; target=&#34;_blank&#34;&gt;Maya Srikanth&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sara-kangaslahti&#34; target=&#34;_blank&#34;&gt;Sara Kangaslahti&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/daniel-ebanks-9b89a298&#34; target=&#34;_blank&#34;&gt;Danny Ebanks&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shunto-kobayashi-323015113&#34; target=&#34;_blank&#34;&gt;Shunto J. Kobayashi&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shiyu-zhang-1783608b&#34; target=&#34;_blank&#34;&gt;Shiyu Zhang&lt;/a&gt;, &lt;a href=&#34;https://www.nadamscohen.com/&#34; target=&#34;_blank&#34;&gt;Nicholas Adams-Cohen&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/jian-cao&#34; target=&#34;_blank&#34;&gt;Jian Cao&lt;/a&gt;, &lt;a href=&#34;http://jeankossaifi.com/&#34; target=&#34;_blank&#34;&gt;Jean Kossaifi&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/r-m-michael-alvarez&#34; target=&#34;_blank&#34;&gt;Mike Alvarez&lt;/a&gt;, and &lt;a href=&#34;http://tensorlab.cms.caltech.edu/users/anima/&#34; target=&#34;_blank&#34;&gt;Anima Anandkumar&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
