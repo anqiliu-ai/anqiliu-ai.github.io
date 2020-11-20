@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning to its integration to real-world safe exploration and domain adaption tasks.">
+  <meta name="description" content="This project covers a series of my work, ranging from fundermentals of distributionally robust learning under covariate shift to its integration to real-world safe exploration and domain adaption tasks.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://anqiliu-ai.github.io/project/drl/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Anqi (Angie) Liu">
   <meta property="og:url" content="https://anqiliu-ai.github.io/project/drl/">
-  <meta property="og:title" content="Distributionally Robust Learning under Distribution Shift | Anqi (Angie) Liu">
-  <meta property="og:description" content="This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning to its integration to real-world safe exploration and domain adaption tasks.">
+  <meta property="og:title" content="Distributionally Robust Learning under Covariate Shift | Anqi (Angie) Liu">
+  <meta property="og:description" content="This project covers a series of my work, ranging from fundermentals of distributionally robust learning under covariate shift to its integration to real-world safe exploration and domain adaption tasks.">
   
   
     
@@ -108,7 +108,7 @@
 
   
 
-  <title>Distributionally Robust Learning under Distribution Shift | Anqi (Angie) Liu</title>
+  <title>Distributionally Robust Learning under Covariate Shift | Anqi (Angie) Liu</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -232,7 +232,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Distributionally Robust Learning under Distribution Shift</h1>
+      <h1 itemprop="name">Distributionally Robust Learning under Covariate Shift</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="float-right">
         
@@ -240,7 +240,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Distributionally%20Robust%20Learning%20under%20Distribution%20Shift&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f"
+         href="https://twitter.com/intent/tweet?text=Distributionally%20Robust%20Learning%20under%20Covariate%20Shift&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -254,21 +254,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f&amp;title=Distributionally%20Robust%20Learning%20under%20Distribution%20Shift"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f&amp;title=Distributionally%20Robust%20Learning%20under%20Covariate%20Shift"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f&amp;title=Distributionally%20Robust%20Learning%20under%20Distribution%20Shift"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f&amp;title=Distributionally%20Robust%20Learning%20under%20Covariate%20Shift"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Distributionally%20Robust%20Learning%20under%20Distribution%20Shift&amp;body=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f">
+         href="mailto:?subject=Distributionally%20Robust%20Learning%20under%20Covariate%20Shift&amp;body=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fdrl%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -282,9 +282,48 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.</p>
+      <p>This project covers a series of my work, ranging from fundermentals of  distributionally robust learning under covariate shift, to its integration to real-world safe exploration and domain adaption tasks.</p>
 
-<p>Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. [under construction]</p>
+<p>Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. Instead of focusing on the robustness against adversarial perturbations on the covariate variables, as in many recent literature, I focus on using conditional output distributions as adversaries. This formulation has two major advantages: (1) It provides a conservative way to quantify the model uncertainties under covariate shift, which benefits data collection and experimental design on various real-world tasks. (2) It provides consistent predictors for minimizing non-smooth loss functions, which is usually elusive for the empirical risk minimization framework.</p>
+
+<p>Here are some featured papers in this line of work:</p>
+
+<ul>
+<li><p>In the vanilla supervised learning setting:</p>
+
+<ul>
+<li><p>The first paper using logloss in the framework under covariate shift: the robust bias-aware classifier: Anqi Liu and Brian D. Ziebart “<a href="http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias" target="_blank">Robust Classification under Sample Selection Bias</a>”, In NIPS2014. Spotlight.</p></li>
+
+<li><p>The first paper minimizing non-smooth loss function in this framework that provides consistent analytical solutions for minimax games under constraints: Rizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “<a href="http://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective" target="_blank">Adversarial Multiclass Classification: A Risk Minimization Perspective</a>”, In NIPS2016.</p></li>
+
+<li><p>The first paper solving regression problems in this framework under covariate shift that directly predicts Gaussian mean and variance for uncertainty estimation in continous problems: Xiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “<a href="http://proceedings.mlr.press/v51/chen16d.pdf" target="_blank">Robust Covariate Shift Regression</a>”, In AISTATS2016.</p></li>
+
+<li><p>The first paper providing unified solutions for the framework under the general loss settings, like for cost-sensitive and abstaining loss functions:  Rizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart &ldquo;<a href="https://arxiv.org/abs/1812.07526" target="_blank">Consistent Robust Adversarial Prediction for General Multiclass Classification</a>&rdquo;, On Arxiv 2018.</p></li>
+</ul></li>
+
+<li><p>In the interactive learning setting:</p>
+
+<ul>
+<li><p>The first paper tackling the sample bias problems in active learning from a robust learning point of view: Anqi Liu, Lev Reyzin, and Brian D. Ziebart “<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9755" target="_blank">Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction</a>”, In AAAI2015.</p></li>
+
+<li><p>The first paper integrating the conservative uncertainty quantification to help improve safe exploration efficiency and constraint satisfaction in real-world systems: Anqi Liu, Guanya Shi, Soon-Jo Chung, Anima Anandkumar, and Yisong Yue &ldquo;<a href="https://arxiv.org/abs/1906.05819" target="_blank">Robust Regression for Safe Exploration in Control</a>&rdquo;, In L4DC 2020.</p></li>
+
+<li><p>The first paper providing robust dynamics estimation and end-to-end guarantees for safe planning in stochastic control systems:
+Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and Soon-Jo Chung. &ldquo;<a href="https://arxiv.org/abs/2005.04374" target="_blank">Chance-Constrained Trajectory Optimization for Safe Exploration and Learning of Nonlinear Systems</a>&rdquo;, RA-L, 2020.</p></li>
+</ul></li>
+
+<li><p>In the large-scale learning setting:</p>
+
+<ul>
+<li>The first paper scaling up the distributional robust learning under covariate shift to solve large scale sim-to-real unsupervised domain adaptation tasks: Haoxuan Wang, Anqi Liu, Zhiding Yu, Yisong Yue, and Anima Anandkumar. &ldquo;<a href="https://arxiv.org/pdf/2010.05784v1.pdf" target="_blank">Distributionally Robust Learning for Unsupervised Domain Adaptation</a>&rdquo;, on Arxiv 2020.</li>
+</ul></li>
+
+<li><p>In the fair learning setting:</p>
+
+<ul>
+<li>The first paper dealing with the intersection between covariate shift and fairness from a robust learning point of view: Ashkan Rezaei, Anqi Liu, Omid Memarrast, and Brian D. Ziebart. &ldquo;<a href="https://arxiv.org/pdf/2010.05166.pdf" target="_blank">Robust Fairness Under Covariate Shift</a>&rdquo;, on Arxiv 2020.</li>
+</ul></li>
+</ul>
 
     </div>
 

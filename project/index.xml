@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Distributionally Robust Learning under Distribution Shift</title>
+      <title>Distributionally Robust Learning under Covariate Shift</title>
       <link>https://anqiliu-ai.github.io/project/drl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/project/drl/</guid>
-      <description>This project covers a series of my work, ranging from fundermentals of covariate shift distributionally robust learning, to its integration to real-world safe exploration and domain adaption tasks.
-Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. [under construction]</description>
+      <description>This project covers a series of my work, ranging from fundermentals of distributionally robust learning under covariate shift, to its integration to real-world safe exploration and domain adaption tasks.
+Distributionally robust learning involves a minimax game between a predictor and an adversary, who is usually subject to constraints from data. Instead of focusing on the robustness against adversarial perturbations on the covariate variables, as in many recent literature, I focus on using conditional output distributions as adversaries.</description>
     </item>
     
     <item>
