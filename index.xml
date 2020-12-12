@@ -26,9 +26,9 @@
 &lt;li&gt;&lt;p&gt;In the vanilla supervised learning setting:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The first paper using logloss in the framework under covariate shift: the robust bias-aware classifier: Anqi Liu and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias&#34; target=&#34;_blank&#34;&gt;Robust Classification under Sample Selection Bias&lt;/a&gt;”, In NIPS2014. Spotlight.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The first paper using logloss in the framework under covariate shift: the robust bias-aware classifier: Anqi Liu and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias&#34; target=&#34;_blank&#34;&gt;Robust Classification under Sample Selection Bias&lt;/a&gt;”, In NeurIPS2014. Spotlight.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;The first paper minimizing non-smooth loss function in this framework that provides consistent analytical solutions for minimax games under constraints: Rizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective&#34; target=&#34;_blank&#34;&gt;Adversarial Multiclass Classification: A Risk Minimization Perspective&lt;/a&gt;”, In NIPS2016.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The first paper minimizing non-smooth loss function in this framework that provides consistent analytical solutions for minimax games under constraints: Rizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective&#34; target=&#34;_blank&#34;&gt;Adversarial Multiclass Classification: A Risk Minimization Perspective&lt;/a&gt;”, In NeurIPS2016.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;The first paper solving regression problems in this framework under covariate shift that directly predicts Gaussian mean and variance for uncertainty estimation in continuous problems: Xiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “&lt;a href=&#34;http://proceedings.mlr.press/v51/chen16d.pdf&#34; target=&#34;_blank&#34;&gt;Robust Covariate Shift Regression&lt;/a&gt;”, In AISTATS2016.&lt;/p&gt;&lt;/li&gt;
 
@@ -55,7 +55,7 @@ Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and S
 &lt;li&gt;&lt;p&gt;In the fair learning setting:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The first paper dealing with the intersection between covariate shift and fairness from a robust learning point of view: Ashkan Rezaei, Anqi Liu, Omid Memarrast, and Brian D. Ziebart. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/2010.05166.pdf&#34; target=&#34;_blank&#34;&gt;Robust Fairness Under Covariate Shift&lt;/a&gt;&amp;rdquo;, on Arxiv 2020.&lt;/li&gt;
+&lt;li&gt;The first paper dealing with the intersection between covariate shift and fairness from a robust learning point of view: Ashkan Rezaei, Anqi Liu, Omid Memarrast, and Brian D. Ziebart. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/2010.05166.pdf&#34; target=&#34;_blank&#34;&gt;Robust Fairness Under Covariate Shift&lt;/a&gt;&amp;rdquo;, AAAI2021.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
