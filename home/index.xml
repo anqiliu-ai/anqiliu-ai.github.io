@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://anqiliu-ai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/home/about/</guid>
-      <description>I am joining the CS department of Johns Hopkins University in Fall 2021.
-I am a DOLCIT postdoctoral research associate in Department of Computing and Mathematical Sciences (CMS) at California Institute of Technology (Caltech), working with Prof. Yisong Yue and Prof. Anima Anandkumar.
+      <description>I am an incoming Assistant Professor in the CS department of Johns Hopkins University.
+I was a DOLCIT postdoctoral research associate in Department of Computing and Mathematical Sciences (CMS) at California Institute of Technology (Caltech), working with Prof. Yisong Yue and Prof. Anima Anandkumar.
 Before Caltech, I received my Ph.D. in Department of Computer Science, University of Illinois at Chicago (UIC). I was fortunate to have Prof. Brian Ziebart as my advisor.</description>
     </item>
     
@@ -35,7 +35,7 @@ Before Caltech, I received my Ph.D. in Department of Computer Science, Universit
     <item>
       <title>Contact</title>
       <link>https://anqiliu-ai.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://anqiliu-ai.github.io/home/contact/</guid>
       <description></description>
