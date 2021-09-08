@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Anqi (Angie) Liu</title>
+    <title>Homes on Anqi (Angie) Liu - JHU</title>
     <link>https://anqiliu-ai.github.io/home/</link>
-    <description>Recent content in Homes on Anqi (Angie) Liu</description>
+    <description>Recent content in Homes on Anqi (Angie) Liu - JHU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -18,9 +18,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/home/about/</guid>
-      <description>I am an incoming Assistant Professor in the CS department of Johns Hopkins University.
-My research interest lies in machine learning and its applications. I am currently working on distributionally robust learning, distribution shift, and interactive machine learning. I am particularly interested in safety-critical applications and the social impact of AI. I aim to design principled learning methods for building more human-compatible systems in the real world.
-I worked with Prof.</description>
+      <description>I am an Assistant Professor in the CS department at the Whiting School of Engineering of the Johns Hopkins University.
+#I am looking for motivated students and postdocs to work with me on various projects.
+My research interest lies in machine learning for trustworthy AI. I am broadly interested in developing principled machine learning algorithms for building more reliable, trustworthy, and human-compatible AI systems in the real world. This requires the machine learning algorithms to be robust to changing data and environment, to provide accurate and honest uncertainty estimates, and to consider human preferences and values in the interaction.</description>
     </item>
     
     <item>
