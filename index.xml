@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anqi (Angie) Liu on Anqi (Angie) Liu</title>
+    <title>Anqi (Angie) Liu - JHU on Anqi (Angie) Liu - JHU</title>
     <link>https://anqiliu-ai.github.io/</link>
-    <description>Recent content in Anqi (Angie) Liu on Anqi (Angie) Liu</description>
+    <description>Recent content in Anqi (Angie) Liu - JHU on Anqi (Angie) Liu - JHU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
@@ -71,6 +71,8 @@ Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and S
 
 &lt;p&gt;We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: &lt;em&gt;what a healthier public communication environment would be like in this era? And how can machine learning help?&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;We are supported by various funding resources, including &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126095&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;NSF&lt;/a&gt;. We are also collaborating with industry partners, including Google, Twitter, Nvidia and Oracle.&lt;/p&gt;
+
 &lt;p&gt;Here are some featured projects:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -86,7 +88,7 @@ Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and S
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml_maya.png&#34;&gt;Dynamic Algorithms for Social Medial Troll Detection&lt;/a&gt;. In ICML WIML Un-Workshop, 2020.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2102.12596&#34; target=&#34;_blank&#34;&gt;Dynamic Social Media Monitoring for Fast-Evolving Online Discussions&lt;/a&gt;. Accepted in SIGKDD 2021 Applied Data Science Track. &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/2923.SrikanthM.pdf&#34;&gt;Poster&lt;/a&gt; &lt;a href=&#34;https://drive.google.com/file/d/1coFJwZaMjyzBLdgN9BHQwg6Mh78mu00a/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2102.12596&#34; target=&#34;_blank&#34;&gt;Dynamic Social Media Monitoring for Fast-Evolving Online Discussions&lt;/a&gt;. Presented at the SIGKDD 2021 Applied Data Science Track. &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/2923.SrikanthM.pdf&#34;&gt;Poster&lt;/a&gt; &lt;a href=&#34;https://drive.google.com/file/d/1coFJwZaMjyzBLdgN9BHQwg6Mh78mu00a/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;A topic modeling method for capturing topic distributions and keywords that reveals how #MeToo got viral in 2017: &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/wiml.png&#34;&gt;Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models&lt;/a&gt;. In ICML WIML Un-Workshop, 2020. &lt;a href=&#34;https://www.youtube.com/watch?v=yMk6rAHXK04&#34; target=&#34;_blank&#34;&gt;Presentation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -96,12 +98,38 @@ Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and S
 
 &lt;li&gt;&lt;p&gt;An analysis of leadership and communication dynamics between politic figures using social media data and NLP approaches: &lt;a href=&#34;https://drive.google.com/file/d/10BUe9Gb4UV_r8fATn1xZibZQlrV7JVsJ/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Legislative Communication and Power: Measuring Leadership from Social Media Data&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Understanding what has been discussed on social media during COVID-19: &lt;a href=&#34;https://www.youtube.com/watch?v=TBtX4dUMLKo&#34; target=&#34;_blank&#34;&gt;Collecting, Preprocessing, and Analyzing Large-Scale Social Media Data: COVID-19 Case Study&lt;/a&gt;. Presented at the CloudBank RRoCCET21 conference. &lt;a href=&#34;https://anqiliu-ai.github.io/slides/social_projects/COVID_CloudBank_presentation_final.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Understanding what has been discussed on social media during COVID-19: &lt;a href=&#34;https://www.youtube.com/watch?v=TBtX4dUMLKo&#34; target=&#34;_blank&#34;&gt;Collecting, Preprocessing, and Analyzing Large-Scale Social Media Data: COVID-19 Case Study&lt;/a&gt;. Presented at the CloudBank RRoCCET21 conference. &lt;a href=&#34;https://anqiliu-ai.github.io/files/social_projects/COVID_CloudBank_presentation_final.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- 2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic: --&gt;
 
-&lt;p&gt;Contributors&lt;a name=&#34;contributors&#34;&gt;&lt;/a&gt;: &lt;a href=&#34;https://www.linkedin.com/in/maya-s-srikanth&#34; target=&#34;_blank&#34;&gt;Maya Srikanth&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sara-kangaslahti&#34; target=&#34;_blank&#34;&gt;Sara Kangaslahti&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/daniel-ebanks-9b89a298&#34; target=&#34;_blank&#34;&gt;Danny Ebanks&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shunto-kobayashi-323015113&#34; target=&#34;_blank&#34;&gt;Shunto J. Kobayashi&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/shiyu-zhang-1783608b&#34; target=&#34;_blank&#34;&gt;Shiyu Zhang&lt;/a&gt;, &lt;a href=&#34;https://www.nadamscohen.com/&#34; target=&#34;_blank&#34;&gt;Nicholas Adams-Cohen&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/jian-cao&#34; target=&#34;_blank&#34;&gt;Jian Cao&lt;/a&gt;, &lt;a href=&#34;http://jeankossaifi.com/&#34; target=&#34;_blank&#34;&gt;Jean Kossaifi&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/r-m-michael-alvarez&#34; target=&#34;_blank&#34;&gt;Mike Alvarez&lt;/a&gt;, and &lt;a href=&#34;http://tensorlab.cms.caltech.edu/users/anima/&#34; target=&#34;_blank&#34;&gt;Anima Anandkumar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contributors&lt;a name=&#34;contributors&#34;&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;PIs: &lt;a href=&#34;https://www.hss.caltech.edu/people/r-m-michael-alvarez&#34; target=&#34;_blank&#34;&gt;Mike Alvarez (Caltech)&lt;/a&gt;, &lt;a href=&#34;http://tensorlab.cms.caltech.edu/users/anima/&#34; target=&#34;_blank&#34;&gt;Anima Anandkumar (Caltech)&lt;/a&gt;, &lt;a href=&#34;https://anqiliu-ai.github.io/&#34; target=&#34;_blank&#34;&gt;Anqi Liu (JHU)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Postdocs: &lt;a href=&#34;https://www.hss.caltech.edu/people/jian-cao&#34; target=&#34;_blank&#34;&gt;Jian Cao&lt;/a&gt;, &lt;a href=&#34;https://rkocielnik.com/&#34; target=&#34;_blank&#34;&gt;Rafał Kocielnik&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Graduate Students: &lt;a href=&#34;https://www.linkedin.com/in/daniel-ebanks-9b89a298&#34; target=&#34;_blank&#34;&gt;Danny Ebanks&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/jacob-morrier&#34; target=&#34;_blank&#34;&gt;Jacob Morrier&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/zhuofang-li&#34; target=&#34;_blank&#34;&gt;Zhuofang Li&lt;/a&gt;, &lt;a href=&#34;https://www.hss.caltech.edu/people/claudia-kann&#34; target=&#34;_blank&#34;&gt;Claudia Kann&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=nm9qB7kAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Md. Yasin Kabir&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Undergraduate Students: &lt;a href=&#34;https://www.linkedin.com/in/sarah-hashash-65603a1a7&#34; target=&#34;_blank&#34;&gt;Sarah Hashash&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Industry Collaborators: &lt;a href=&#34;http://jeankossaifi.com/&#34; target=&#34;_blank&#34;&gt;Jean Kossaifi&lt;/a&gt;,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alumni:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nadamscohen.com/&#34; target=&#34;_blank&#34;&gt;Nicholas Adams-Cohen, Now researcher at Accenture&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/maya-s-srikanth&#34; target=&#34;_blank&#34;&gt;Maya Srikanth, Now graduate student at Stanford&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/sara-kangaslahti&#34; target=&#34;_blank&#34;&gt;Sara Kangaslahti&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/shunto-kobayashi-323015113&#34; target=&#34;_blank&#34;&gt;Shunto J. Kobayashi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/shiyu-zhang-1783608b&#34; target=&#34;_blank&#34;&gt;Shiyu Zhang&lt;/a&gt;,&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
