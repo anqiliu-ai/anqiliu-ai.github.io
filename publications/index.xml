@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Anqi (Angie) Liu</title>
+    <link>https://anqiliu-ai.github.io/publications/</link>
+    <description>Recent content in Publications on Anqi (Angie) Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://anqiliu-ai.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A list of past publications</title>
+      <link>https://anqiliu-ai.github.io/publications/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/publications/publications/</guid>
+      <description>Sima Behpour, Anqi Liu, and Brian D. Ziebart &amp;ldquo;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings&amp;rdquo;, In ICML2019.
+Kamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar &amp;ldquo;Regularized learning for domain adaptation under label shifts&amp;rdquo;, In ICLR2019.
+Rizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart &amp;ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification&amp;rdquo;, On Arxiv 2018.
+Anqi Liu and Brian D.</description>
+    </item>
+    
+  </channel>
+</rss>
