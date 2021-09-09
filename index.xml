@@ -7,8 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A list of past publications</title>
+      <link>https://anqiliu-ai.github.io/publications/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/publications/publications/</guid>
+      <description>&lt;p&gt;Sima Behpour, Anqi Liu, and Brian D. Ziebart &amp;ldquo;&lt;a href=&#34;http://proceedings.mlr.press/v97/behpour19a.html&#34; target=&#34;_blank&#34;&gt;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings&lt;/a&gt;&amp;rdquo;, In ICML2019.&lt;/p&gt;
+
+&lt;p&gt;Kamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1903.09734&#34; target=&#34;_blank&#34;&gt;Regularized learning for domain adaptation under label shifts&lt;/a&gt;&amp;rdquo;, In ICLR2019.&lt;/p&gt;
+
+&lt;p&gt;Rizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1812.07526&#34; target=&#34;_blank&#34;&gt;Consistent Robust Adversarial Prediction for General Multiclass Classification&lt;/a&gt;&amp;rdquo;, On Arxiv 2018.&lt;/p&gt;
+
+&lt;p&gt;Anqi Liu and Brian D. Ziebart &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1712.10043&#34; target=&#34;_blank&#34;&gt;Robust Covariate Shift Prediction with General Losses and Feature Views&lt;/a&gt;&amp;rdquo;, On Arxiv 2017.&lt;/p&gt;
+
+&lt;!-- Anqi Liu, Rizal Fathony, and Brian D. Ziebart &#34;[Kernel Robust Bias-Aware Prediction under Covariate Shift](https://arxiv.org/abs/1712.10050)&#34;, On Arxiv. --&gt;
+
+&lt;p&gt;Rizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective&#34; target=&#34;_blank&#34;&gt;Adversarial Multiclass Classification: A Risk Minimization Perspective&lt;/a&gt;”, In NeurIPS2016.&lt;/p&gt;
+
+&lt;p&gt;Xiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “&lt;a href=&#34;http://proceedings.mlr.press/v51/chen16d.pdf&#34; target=&#34;_blank&#34;&gt;Robust Covariate Shift Regression&lt;/a&gt;”, In AISTATS2016.&lt;/p&gt;
+
+&lt;p&gt;Mathew Monfort, Anqi Liu, and Brian D. Ziebart “&lt;a href=&#34;https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9897&#34; target=&#34;_blank&#34;&gt;Trajectory Forecasting and Intent Recognition via Predictive Inverse Linear-Quadratic Regulation&lt;/a&gt;”, In AAAI2015.&lt;/p&gt;
+
+&lt;p&gt;Anqi Liu, Lev Reyzin, and Brian D. Ziebart “&lt;a href=&#34;https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9755&#34; target=&#34;_blank&#34;&gt;Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction&lt;/a&gt;”, In AAAI2015.&lt;/p&gt;
+
+&lt;p&gt;Anqi Liu and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias&#34; target=&#34;_blank&#34;&gt;Robust Classification under Sample Selection Bias&lt;/a&gt;”, In NeurIPS2014. Spotlight.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Distributionally Robust Learning under Covariate Shift</title>
@@ -59,6 +88,15 @@ Yashwanth Kumar Nakka, Anqi Liu, Guanya Shi, Anima Anandkumar, Yisong Yue, and S
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>https://anqiliu-ai.github.io/students/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/students/students/</guid>
+      <description></description>
     </item>
     
     <item>
