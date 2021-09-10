@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "Sima Behpour, Anqi Liu, and Brian D. Ziebart \u0026ldquo;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings\u0026rdquo;, In ICML2019.\nKamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar \u0026ldquo;Regularized learning for domain adaptation under label shifts\u0026rdquo;, In ICLR2019.\nRizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart \u0026ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification\u0026rdquo;, On Arxiv 2018.\nAnqi Liu and Brian D. Ziebart \u0026ldquo;Robust Covariate Shift Prediction with General Losses and Feature Views\u0026rdquo;, On Arxiv 2017.\nRizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “Adversarial Multiclass Classification: A Risk Minimization Perspective”, In NeurIPS2016.\nXiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “Robust Covariate Shift Regression”, In AISTATS2016.\nMathew Monfort, Anqi Liu, and Brian D. Ziebart “Trajectory Forecasting and Intent Recognition via Predictive Inverse Linear-Quadratic Regulation”, In AAAI2015.\nAnqi Liu, Lev Reyzin, and Brian D. Ziebart “Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction”, In AAAI2015.\nAnqi Liu and Brian D. Ziebart “Robust Classification under Sample Selection Bias”, In NeurIPS2014. Spotlight.\n\n",
+    "content": "\nSima Behpour, Anqi Liu, and Brian D. Ziebart \u0026ldquo;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings\u0026rdquo;, In ICML2019.\nKamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar \u0026ldquo;Regularized learning for domain adaptation under label shifts\u0026rdquo;, In ICLR2019.\nRizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart \u0026ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification\u0026rdquo;, On Arxiv 2018.\nAnqi Liu and Brian D. Ziebart \u0026ldquo;Robust Covariate Shift Prediction with General Losses and Feature Views\u0026rdquo;, On Arxiv 2017.\nRizal Fathony, Anqi Liu, Kaiser Asif, and Brian D. Ziebart “Adversarial Multiclass Classification: A Risk Minimization Perspective”, In NeurIPS2016.\nXiangli Chen, Mathew Monfort, Anqi Liu, and Brian D. Ziebart “Robust Covariate Shift Regression”, In AISTATS2016.\nMathew Monfort, Anqi Liu, and Brian D. Ziebart “Trajectory Forecasting and Intent Recognition via Predictive Inverse Linear-Quadratic Regulation”, In AAAI2015.\nAnqi Liu, Lev Reyzin, and Brian D. Ziebart “Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction”, In AAAI2015.\nAnqi Liu and Brian D. Ziebart “Robust Classification under Sample Selection Bias”, In NeurIPS2014. Spotlight.\n\n",
     "date": 1631145600,
     "expirydate": -62135596800,
     "kind": "page",
@@ -13,15 +13,15 @@
     "publishdate": "2021-09-09T00:00:00Z",
     "relpermalink": "/publications/",
     "section": "",
-    "summary": "Sima Behpour, Anqi Liu, and Brian D. Ziebart \u0026ldquo;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings\u0026rdquo;, In ICML2019.\nKamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar \u0026ldquo;Regularized learning for domain adaptation under label shifts\u0026rdquo;, In ICLR2019.\nRizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart \u0026ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification\u0026rdquo;, On Arxiv 2018.\nAnqi Liu and Brian D.",
+    "summary": "Sima Behpour, Anqi Liu, and Brian D. Ziebart \u0026ldquo;Active Learning for Probabilistic Structured Prediction of Cuts and Matchings\u0026rdquo;, In ICML2019.\nKamyar Azizzadenesheli, Anqi Liu, Fanny Yang, and Anima Anandkumar \u0026ldquo;Regularized learning for domain adaptation under label shifts\u0026rdquo;, In ICLR2019.\nRizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart \u0026ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification\u0026rdquo;, On Arxiv 2018.",
     "tags": null,
-    "title": "A list of past publications",
+    "title": "A list of past publications (to be updated)",
     "type": "page"
   },
   {
     "authors": null,
     "categories": null,
-    "content": "To be announced\n",
+    "content": "\nI am looking for motivated students (PhD, master, and undergraduate) to join my lab.\nExisting JHU Students\nIf you are interested in working with me, please feel free to reach out via email.\nProspective Graduate Students\nI will be accepting graduate students applying during the 2021\u0026frasl;22 academic cycle. If you are interested in my research, you can list me as a faculty of interest in your application.\nProspective Postdoctoral Fellows\nI have Postdoctoral positions in my lab. If you think there is a good research fit with my lab, please feel free to send an email with your CV/resume and a short statement of your research interest.\n",
     "date": 1631145600,
     "expirydate": -62135596800,
     "kind": "page",
@@ -32,7 +32,7 @@
     "publishdate": "2021-09-09T00:00:00Z",
     "relpermalink": "/students/",
     "section": "",
-    "summary": "To be announced",
+    "summary": "I am looking for motivated students (PhD, master, and undergraduate) to join my lab.\nExisting JHU Students\nIf you are interested in working with me, please feel free to reach out via email.\nProspective Graduate Students\nI will be accepting graduate students applying during the 2021\u0026frasl;22 academic cycle. If you are interested in my research, you can list me as a faculty of interest in your application.\nProspective Postdoctoral Fellows",
     "tags": null,
     "title": "Opportunities",
     "type": "page"
