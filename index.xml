@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A list of past publications (By areas)</title>
+      <title>A list of past publications (By area)</title>
       <link>https://anqiliu-ai.github.io/publications/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -34,7 +34,8 @@
 
 &lt;p&gt;Anqi Liu and Brian D. Ziebart “&lt;a href=&#34;http://papers.nips.cc/paper/5458-robust-classification-under-sample-selection-bias&#34; target=&#34;_blank&#34;&gt;Robust Classification under Sample Selection Bias&lt;/a&gt;”, In NeurIPS2014. Spotlight.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Active Learning (under data shifts):&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Active Learning (under data shifts):&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;Eric Zhao, Anqi Liu, Anima Anandkumar, and Yisong Yue &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2007.08479&#34; target=&#34;_blank&#34;&gt;Active Learning under Label Shift&lt;/a&gt;&amp;rdquo;, in AISTATS 2021.&lt;/p&gt;
 
@@ -44,7 +45,8 @@
 
 &lt;p&gt;Anqi Liu, Lev Reyzin, and Brian D. Ziebart “&lt;a href=&#34;https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9755&#34; target=&#34;_blank&#34;&gt;Shift-Pessimistic Active Learning using Robust Bias-Aware Prediction&lt;/a&gt;”, In AAAI2015.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Safe Decision Making (under data shifts):&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Safe Decision Making (under data shifts):&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;Hao Liu, Anima Anandkumar, Yisong Yue, and Anqi Liu. &amp;ldquo;Distributionally Robust Off-Policy Evaluation&amp;rdquo;, PDF coming soon.&lt;/p&gt;
 
@@ -52,7 +54,8 @@
 
 &lt;p&gt;Anqi Liu, Guanya Shi, Soon-Jo Chung, Anima Anandkumar, and Yisong Yue &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1906.05819&#34; target=&#34;_blank&#34;&gt;Robust Regression for Safe Exploration in Control&lt;/a&gt;&amp;rdquo;, In L4DC 2020.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Human Decision Making Modeling:&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Human Decision Making Modeling:&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;Quanying Liu, Haiyan Wu, Anqi Liu &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1906.05803&#34; target=&#34;_blank&#34;&gt;Modeling and Interpreting Real-world Human Risk Decision Making with Inverse Reinforcement Learning&lt;/a&gt;&amp;rdquo;, in Real-world Sequential Decision Making Workshop, ICML 2019.&lt;/p&gt;
 
@@ -60,18 +63,22 @@
 
 &lt;p&gt;Mathew Monfort, Anqi Liu, and Brian D. Ziebart “&lt;a href=&#34;https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9897&#34; target=&#34;_blank&#34;&gt;Trajectory Forecasting and Intent Recognition via Predictive Inverse Linear-Quadratic Regulation&lt;/a&gt;”, In AAAI2015.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Fair Machine Learning:&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Fair Machine Learning:&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;Ashkan Rezaei, Anqi Liu, Omid Memarrast, and Brian D. Ziebart. &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/2010.05166.pdf&#34; target=&#34;_blank&#34;&gt;Robust Fairness Under Covariate Shift&lt;/a&gt;&amp;rdquo;, in AAAI 2021.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Computational Social Science/AI for Social Good:&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Computational Social Science/AI for Social Good:&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;Maya Srikanth, Anqi Liu, Nicholas Adams-Cohen, Jian Cao, R Michael Alvarez, Anima Anandkumar &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2102.12596&#34; target=&#34;_blank&#34;&gt;Dynamic Social Media Monitoring for Fast-Evolving Online Discussions&lt;/a&gt;&amp;rdquo;, In KDD ADS track, 2021.&lt;/p&gt;
 
 &lt;p&gt;Anqi Liu, Maya Srikanth, Nicholas Adams-Cohen, R Michael Alvarez, Anima Anandkumar &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1911.05332&#34; target=&#34;_blank&#34;&gt;Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates&lt;/a&gt;&amp;rdquo;, In AI for Social Good workshop at NeurIPS, 2019.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Text Mining/Information Retrieval:&lt;/space&gt;
-Hong Wang, Anqi Liu, Jing Wang, Brian D Ziebart, Clement T Yu, Warren Shen &amp;ldquo;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/2808194.2809453&#34; target=&#34;_blank&#34;&gt;Context Retrieval for Web Tables&lt;/a&gt;&amp;rdquo;, In International Conference on The Theory of Information Retrieval, 2015&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Text Mining/Information Retrieval:&lt;/space&gt;&lt;/p&gt;
+
+&lt;p&gt;Hong Wang, Anqi Liu, Jing Wang, Brian D Ziebart, Clement T Yu, Warren Shen &amp;ldquo;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/2808194.2809453&#34; target=&#34;_blank&#34;&gt;Context Retrieval for Web Tables&lt;/a&gt;&amp;rdquo;, In International Conference on The Theory of Information Retrieval, 2015&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 </description>
@@ -85,9 +92,9 @@ Hong Wang, Anqi Liu, Jing Wang, Brian D Ziebart, Clement T Yu, Warren Shen &amp;
       <guid>https://anqiliu-ai.github.io/students/</guid>
       <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;I am looking for motivated students (PhD, master, and undergraduate) to join my lab.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Existing JHU students:&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;I am looking for motivated students (PhD, master, and undergraduate) to join my lab.
+&lt;br&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;Existing JHU students:&lt;/space&gt;&lt;/p&gt;
 
 &lt;p&gt;If you are interested in working with me, please feel free to reach out via email.&lt;/p&gt;
 
