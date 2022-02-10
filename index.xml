@@ -114,6 +114,18 @@
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>https://anqiliu-ai.github.io/teaching/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/teaching/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Spring 2022: En.601.787 Machine Learning for Trustworthy AI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Distributionally Robust Learning under Covariate Shift</title>
       <link>https://anqiliu-ai.github.io/project/drl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
