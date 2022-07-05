@@ -6,7 +6,7 @@
     <description>Recent content in Anqi (Angie) Liu on Anqi (Angie) Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -90,26 +90,37 @@
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/students/</guid>
-      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;span style=&#34;font-size:larger;&#34;&gt;Current students:&lt;/space&gt;
+&lt;br&gt;
+PhD students (alphabetically):&lt;/p&gt;
 
-&lt;p&gt;I am looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: &lt;a href=&#34;https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html&#34; target=&#34;_blank&#34;&gt;For undergraduates and masters&lt;/a&gt; and &lt;a href=&#34;https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf&#34; target=&#34;_blank&#34;&gt;How to be a successful PhD student&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://manhhabui.github.io/&#34; target=&#34;_blank&#34;&gt;Manh-Ha Bui&lt;/a&gt; (incoming)&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-&lt;span style=&#34;font-size:larger;&#34;&gt;Existing JHU students:&lt;/space&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.jhu.edu/news/cs-undergrad-named-finalist-for-2022-cra-outstanding-undergraduate-researcher-award/&#34; target=&#34;_blank&#34;&gt;Sally Cao&lt;/a&gt; (co-advised with Chien-Ming Huang)&lt;/p&gt;
 
-&lt;p&gt;If you are interested in working with me, please feel free to reach out via email. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfP2r6zTildULt2K1pfX06A0PPeLitTSVBa-5gjukJwRR5x3Q/viewform?usp=sf_link&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is a form that you can fill to provide more information.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zipjiang.github.io/&#34; target=&#34;_blank&#34;&gt;Zhengping Jiang&lt;/a&gt; (co-advised with Ben Van Durme)&lt;/p&gt;
+
+&lt;p&gt;Aayush Mishra&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aiem.jhu.edu/people/gina-wong/&#34; target=&#34;_blank&#34;&gt;Gina Wong&lt;/a&gt; (co-advised with Rama Chellappa)&lt;/p&gt;
+
+&lt;p&gt;Master students:&lt;/p&gt;
+
+&lt;p&gt;Yihong Guo (Data Science)&lt;/p&gt;
+
+&lt;p&gt;Jiazhen Hu (CS)&lt;/p&gt;
+
+&lt;p&gt;Hyun Joo Rosalyn Shin (CS)&lt;/p&gt;
+
+&lt;p&gt;Yi Zhou (CS)&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
-&lt;span style=&#34;font-size:larger;&#34;&gt;Prospective graduate students:&lt;/space&gt;&lt;/p&gt;
+&lt;span style=&#34;font-size:larger;&#34;&gt;For prospective students:&lt;/space&gt;
+I am always looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: &lt;a href=&#34;https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html&#34; target=&#34;_blank&#34;&gt;For undergraduates and masters&lt;/a&gt; and &lt;a href=&#34;https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf&#34; target=&#34;_blank&#34;&gt;How to be a successful PhD student&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I will be accepting graduate students applying during the 2021-22 academic cycle. If you are interested in my research, you can list me as a faculty of interest in your application to the CS department. You can find more information about applying to the Computer Science department &lt;a href=&#34;https://www.cs.jhu.edu/graduate-studies/phd-program/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;I could also recruit students who want to start Spring 2022, if there is a good match. Please send me an email with your CV and personal statement for consideration.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style=&#34;font-size:larger;&#34;&gt;Prospective postdocs:&lt;/space&gt;&lt;/p&gt;
-
-&lt;p&gt;I have postdoctoral positions in my group. If you think there is a good research fit with me, please feel free to send an email with your CV/resume and a short statement of your research interest.&lt;/p&gt;
+&lt;p&gt;If you are interested in working with me, please feel free to fill this form. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfP2r6zTildULt2K1pfX06A0PPeLitTSVBa-5gjukJwRR5x3Q/viewform?usp=sf_link&#34; target=&#34;_blank&#34;&gt;google form&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -121,7 +132,9 @@
       <guid>https://anqiliu-ai.github.io/teaching/</guid>
       <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;Spring 2022: En.601.787 Machine Learning for Trustworthy AI.&lt;/p&gt;
+&lt;p&gt;Spring 2022: En.601.787 Machine Learning for Trustworthy AI. &lt;a href=&#34;files/teaching/syllabus_trustworthy.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fall 2022： En.601.675(475) Machine Learning. More info coming.&lt;/p&gt;
 </description>
     </item>
     
