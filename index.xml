@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Services</title>
+      <link>https://anqiliu-ai.github.io/services/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anqiliu-ai.github.io/services/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Spring 2022: En.601.787 Machine Learning for Trustworthy AI. &lt;a href=&#34;https://anqiliu-ai.github.io/files/teaching/syllabus_trustworthy.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fall 2022: En.601.675(475) Machine Learning. More info coming.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://anqiliu-ai.github.io/teaching/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
@@ -116,11 +132,11 @@
 
 &lt;p&gt;&lt;a href=&#34;https://zipjiang.github.io/&#34; target=&#34;_blank&#34;&gt;Zhengping Jiang&lt;/a&gt; (co-advised with Ben Van Durme)&lt;/p&gt;
 
-&lt;p&gt;Aayush Mishra&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aamixsh.github.io/&#34; target=&#34;_blank&#34;&gt;Aayush Mishra&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://aiem.jhu.edu/people/gina-wong/&#34; target=&#34;_blank&#34;&gt;Gina Wong&lt;/a&gt; (co-advised with Rama Chellappa)&lt;/p&gt;
 
-&lt;p&gt;Master students:&lt;/p&gt;
+&lt;p&gt;I also (co-)mentor the following Master students:&lt;/p&gt;
 
 &lt;p&gt;Yihong Guo (Data Science)&lt;/p&gt;
 
