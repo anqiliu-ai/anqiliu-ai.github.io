@@ -21,7 +21,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "\nSpring 2022: En.601.787 Machine Learning for Trustworthy AI. Syllabus\nFall 2022: En.601.675(475) Machine Learning. More info coming.\n\n",
+    "content": "\nSpring 2022: En.601.787 Machine Learning for Trustworthy AI. Syllabus\nFall 2022: En.601.675(475) Machine Learning.\nSpring 2023: En.601.787 Machine Learning for Trustworthy AI.\nSpring 2024: En.601.675(475) Machine Learning.\n\n",
     "date": 1656979200,
     "expirydate": -62135596800,
     "kind": "page",
@@ -32,7 +32,7 @@
     "publishdate": "2022-07-05T00:00:00Z",
     "relpermalink": "/teaching/",
     "section": "",
-    "summary": "Spring 2022: En.601.787 Machine Learning for Trustworthy AI. Syllabus\nFall 2022: En.601.675(475) Machine Learning. More info coming.",
+    "summary": "Spring 2022: En.601.787 Machine Learning for Trustworthy AI. Syllabus\nFall 2022: En.601.675(475) Machine Learning.\nSpring 2023: En.601.787 Machine Learning for Trustworthy AI.\nSpring 2024: En.601.675(475) Machine Learning.",
     "tags": null,
     "title": "Teaching",
     "type": "page"
@@ -53,13 +53,13 @@
     "section": "",
     "summary": "Distributionally Robust Learning (under data shifts):\nHaoxuan Wang, Anqi Liu, Zhiding Yu, Yisong Yue, and Anima Anandkumar. \u0026ldquo;Deep Distributionally Robust Learning for Calibrated Uncertainties under Domain Shift\u0026rdquo;, on Arxiv 2021.\nRizal Fathony, Kaiser Asif, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, and Brian D. Ziebart \u0026ldquo;Consistent Robust Adversarial Prediction for General Multiclass Classification\u0026rdquo;, On Arxiv 2018.\nAnqi Liu and Brian D. Ziebart \u0026ldquo;Robust Covariate Shift Prediction with General Losses and Feature Views\u0026rdquo;, On Arxiv 2017.",
     "tags": null,
-    "title": "A list of past publications (By area)",
+    "title": "A list of past publications (By area), not updated frequently. Please refer to google scholar for most updated info.",
     "type": "page"
   },
   {
     "authors": null,
     "categories": null,
-    "content": "Current students:\nPhD students:\nManh-Ha Bui (incoming)\nSally Cao (co-advised with Chien-Ming Huang)\nZhengping Jiang (co-advised with Ben Van Durme)\nAayush Mishra\nGina Wong (co-advised with Rama Chellappa)\nI also (co-)mentor the following Master students:\nYihong Guo (Data Science)\nJiazhen Hu (CS)\nHyun Joo Rosalyn Shin (CS)\nYi Zhou (CS)\n\nFor prospective students:\nI am always looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: For undergraduates and masters and How to be a successful PhD student. If you are interested in working with me, please feel free to fill this form. google form\n",
+    "content": "Current students:\nPhD students:\nYihong Guo\nManh-Ha Bui\nIliana Maifeld-Carucci (co-advised with I-Jeng Wang)\nSally Cao (co-advised with Chien-Ming Huang)\nZhengping Jiang (co-advised with Ben Van Durme)\nAayush Mishra\nGina Wong (co-advised with Rama Chellappa)\nDrew Prinster (co-advised with Suchi Saria and Chien-Ming Huang)\n\nFor prospective students:\nI am always looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: For undergraduates and masters and How to be a successful PhD student. If you are interested in working with me, please feel free to fill this form. google form\n",
     "date": 1631145600,
     "expirydate": -62135596800,
     "kind": "page",
@@ -70,7 +70,7 @@
     "publishdate": "2021-09-09T00:00:00Z",
     "relpermalink": "/students/",
     "section": "",
-    "summary": "Current students:\nPhD students:\nManh-Ha Bui (incoming)\nSally Cao (co-advised with Chien-Ming Huang)\nZhengping Jiang (co-advised with Ben Van Durme)\nAayush Mishra\nGina Wong (co-advised with Rama Chellappa)\nI also (co-)mentor the following Master students:\nYihong Guo (Data Science)\nJiazhen Hu (CS)\nHyun Joo Rosalyn Shin (CS)\nYi Zhou (CS)\n\nFor prospective students:\nI am always looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: For undergraduates and masters and How to be a successful PhD student.",
+    "summary": "Current students:\nPhD students:\nYihong Guo\nManh-Ha Bui\nIliana Maifeld-Carucci (co-advised with I-Jeng Wang)\nSally Cao (co-advised with Chien-Ming Huang)\nZhengping Jiang (co-advised with Ben Van Durme)\nAayush Mishra\nGina Wong (co-advised with Rama Chellappa)\nDrew Prinster (co-advised with Suchi Saria and Chien-Ming Huang)\n\nFor prospective students:\nI am always looking for motivated students (PhD, master, and undergraduate) to join my group. To start doing research, here are some great advice from my colleagues: For undergraduates and masters and How to be a successful PhD student.",
     "tags": null,
     "title": "Students",
     "type": "page"
