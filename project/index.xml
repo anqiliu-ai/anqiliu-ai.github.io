@@ -22,13 +22,12 @@ Distributionally robust learning involves a minimax game between a predictor and
     </item>
     
     <item>
-      <title>Trustworthy Social Media</title>
+      <title>UQ for AI Safety and Fairness</title>
       <link>https://anqiliu-ai.github.io/project/social/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://anqiliu-ai.github.io/project/social/</guid>
-      <description>This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members here! Check our medium posts for further reading here!
-We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: what a healthier public communication environment would be like in this era?</description>
+      <description>This project covers a series of my work on uncertainty quantification under distribution shift, especially covariate shift. We look at various metrics to evaluate the quality of uncertainty estimates, ranging from marginal coverage, sharpness, to expected calibration errors (for subgroups). We aim to develop rigorous and principled methods that is also practical in real world applications. For example, we try to improve and better balance the sample complexity and computational complexity for popular distributon-free methods like conformal predictions.</description>
     </item>
     
   </channel>

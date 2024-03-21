@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Media Coverage: [AI for #MeToo](https://www.caltech.edu/about/news/ai-metoo-training-algorithms-spot-online-trolls).">
+  <meta name="description" content="We aim to tackle two key challenges in model auditing for safeguarding AI. The first is the ubiquitous distribution shift, especially subpopulation shift. The second is that many UQ approaches require either intensive computing power or an impractical amount or quality of data that may be unavailable in real-world scenarios. Media Coverage: [Putting trust to the test](https://www.cs.jhu.edu/news/putting-trust-to-the-test/).">
 
   
   <link rel="alternate" hreflang="en-us" href="https://anqiliu-ai.github.io/project/social/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Anqi (Angie) Liu">
   <meta property="og:url" content="https://anqiliu-ai.github.io/project/social/">
-  <meta property="og:title" content="Trustworthy Social Media | Anqi (Angie) Liu">
-  <meta property="og:description" content="We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Media Coverage: [AI for #MeToo](https://www.caltech.edu/about/news/ai-metoo-training-algorithms-spot-online-trolls).">
+  <meta property="og:title" content="UQ for AI Safety and Fairness | Anqi (Angie) Liu">
+  <meta property="og:description" content="We aim to tackle two key challenges in model auditing for safeguarding AI. The first is the ubiquitous distribution shift, especially subpopulation shift. The second is that many UQ approaches require either intensive computing power or an impractical amount or quality of data that may be unavailable in real-world scenarios. Media Coverage: [Putting trust to the test](https://www.cs.jhu.edu/news/putting-trust-to-the-test/).">
   
   
     
@@ -108,7 +108,7 @@
 
   
 
-  <title>Trustworthy Social Media | Anqi (Angie) Liu</title>
+  <title>UQ for AI Safety and Fairness | Anqi (Angie) Liu</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -270,7 +270,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Trustworthy Social Media</h1>
+      <h1 itemprop="name">UQ for AI Safety and Fairness</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="float-right">
         
@@ -278,7 +278,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Trustworthy%20Social%20Media&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f"
+         href="https://twitter.com/intent/tweet?text=UQ%20for%20AI%20Safety%20and%20Fairness&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -292,21 +292,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f&amp;title=Trustworthy%20Social%20Media"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f&amp;title=UQ%20for%20AI%20Safety%20and%20Fairness"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f&amp;title=Trustworthy%20Social%20Media"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f&amp;title=UQ%20for%20AI%20Safety%20and%20Fairness"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Trustworthy%20Social%20Media&amp;body=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f">
+         href="mailto:?subject=UQ%20for%20AI%20Safety%20and%20Fairness&amp;body=https%3a%2f%2fanqiliu-ai.github.io%2fproject%2fsocial%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -320,67 +320,113 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members <a href="#contributors">here</a>! Check our medium posts for further reading <a href="https://medium.com/trustworthy-social-media" target="_blank">here</a>!</p>
+      <p>This project covers a series of my work on uncertainty quantification under distribution shift, especially covariate shift. We look at various metrics to evaluate the quality of uncertainty estimates, ranging from marginal coverage, sharpness, to expected calibration errors (for subgroups). We aim to develop rigorous and principled methods that is also practical in real world applications. For example, we try to improve and better balance the sample complexity and computational complexity for popular distributon-free methods like conformal predictions. We also utilize data beyond traditional labeled data in supervised learning for the purpose of model calibration. For example, we leverage human annotation to &ldquo;align&rdquo; the LLM better with human uncertainty.</p>
 
-<p>We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: <em>what a healthier public communication environment would be like in this era? And how can machine learning help?</em></p>
-
-<p>We are supported by various funding resources, including <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126095&amp;HistoricalAwards=false" target="_blank">NSF</a>. We are also collaborating with industry partners, including Google, Twitter, Nvidia and Oracle.</p>
-
-<p>Here are some featured projects:</p>
+<p>Here are some featured papers in this line of work:</p>
 
 <ul>
-<li><p>Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?</p>
+<li><p>A series of wrapper methods for distribution-free uncertainty quantification tasks under covariate shift, utilizing the more sample efficient jackknife+ methods: Andrew Prinster, Anqi Liu, Suchi Saria. &ldquo;<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/e944bacecce6b06374ac39b260348db0-Paper-Conference.pdf" target="_blank">JAWS: Auditing Predictive Uncertainty Under Covariate Shift</a>&rdquo;, in NeurIPS 2022.</p></li>
 
-<ul>
-<li><p>A word-embedding approach to discover new keywords for dynamic data collection with applications on multiple topics and discussion space:</p>
+<li><p>A collection of methods based on the jackknife+ that achieve a practical balance of computational and statistical efficiency: Drew Prinster, Suchi Saria, Anqi Liu. &ldquo;<a href="https://proceedings.mlr.press/v202/prinster23a.html" target="_blank">JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction Under Standard and Feedback Covariate Shift</a>&rdquo;, in ICML 2023.</p></li>
 
-<ul>
-<li><p><a href="/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf">Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates</a>. In Neurips workshp: AI for Social Good, 2019. <a href="https://arxiv.org/abs/1911.05332" target="_blank">Paper</a></p></li>
+<li><p>Calibrated and efficient uncertainty estimation for deep classification under distribution shifts: &ldquo;<a href="https://arxiv.org/abs/2302.06495" target="_blank">Density-Softmax: Scalable and Calibrated Uncertainty Estimation under Distribution Shifts</a>&rdquo;, on ArXiv 2023.</p></li>
 
-<li><p><a href="/files/social_projects/polmeth.pdf">Tracking Social Media Movements with Dynamic Keyword Algorithm</a>. In American Political Science Association Annal Meeting and Exhibition, 2020.</p></li>
+<li><p>Calibrated and efficient uncertainty estimation for deep regression under distribution shifts: Ha Manh Bui, Anqi Liu. &ldquo;<a href="https://arxiv.org/abs/2403.05600" target="_blank">Density-Regression: Efficient and Distance-Aware Deep Regressor for Uncertainty Estimation under Distribution Shifts</a>&rdquo;, in AISTATS2024</p></li>
 
-<li><p><a href="/files/social_projects/wiml_maya.png">Dynamic Algorithms for Social Medial Troll Detection</a>. In ICML WIML Un-Workshop, 2020.</p></li>
+<li><p>Calibrating pre-trained large language models in cross-lingual tasks: Zhengping Jiang, Anqi Liu, Benjamin Van Durme. &ldquo;<a href="https://aclanthology.org/2022.emnlp-main.170/" target="_blank">Calibrating Zero-shot Cross-lingual (Un-)structured Predictions</a>&rdquo;, in EMNLP2022.</p></li>
 
-<li><p><a href="https://arxiv.org/abs/2102.12596" target="_blank">Dynamic Social Media Monitoring for Fast-Evolving Online Discussions</a>. Presented at the SIGKDD 2021 Applied Data Science Track. <a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467171" target="_blank">Paper</a> <a href="/files/social_projects/2923.SrikanthM.pdf">Poster</a> <a href="https://drive.google.com/file/d/1coFJwZaMjyzBLdgN9BHQwg6Mh78mu00a/view?usp=sharing" target="_blank">Video</a></p></li>
-</ul></li>
-
-<li><p>A topic modeling method for capturing topic distributions and keywords that reveals how #MeToo got viral in 2017: <a href="/files/social_projects/wiml.png">Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models</a>. In ICML WIML Un-Workshop, 2020. <a href="https://www.youtube.com/watch?v=yMk6rAHXK04" target="_blank">Presentation</a></p></li>
-</ul></li>
-
-<li><p>A technical report on how to collect data for online discussions monitoring: <a href="https://arxiv.org/abs/2005.02442v2" target="_blank">Reliable and Efficient Long-Term Social Media Monitoring</a>. Under review.</p></li>
-
-<li><p>An analysis of leadership and communication dynamics between politic figures using social media data and NLP approaches: <a href="https://drive.google.com/file/d/10BUe9Gb4UV_r8fATn1xZibZQlrV7JVsJ/view?usp=sharing" target="_blank">Legislative Communication and Power: Measuring Leadership from Social Media Data</a>.</p></li>
-
-<li><p>Understanding what has been discussed on social media during COVID-19: <a href="https://www.youtube.com/watch?v=TBtX4dUMLKo" target="_blank">Collecting, Preprocessing, and Analyzing Large-Scale Social Media Data: COVID-19 Case Study</a>. Presented at the CloudBank RRoCCET21 conference. <a href="/files/social_projects/COVID_CloudBank_presentation_final.pdf">Slides</a></p></li>
+<li><p>Human scalar annotation for better calibrating large language models: Zhengping Jiang, Anqi Liu, Benjamnin Van Durme. <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00636/119541" target="_blank">Addressing the Binning Problem in Calibration Assessment through Scalar Annotations</a>, in TACL 2024.</p></li>
 </ul>
+
+<!-- 
+
++++
+# Date this page was created.
+
+
+# Project title.
+title = "Trustworthy Social Media"
+
+# Project summary to display on homepage.
+summary = "We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Media Coverage: [AI for #MeToo](https://www.caltech.edu/about/news/ai-metoo-training-algorithms-spot-online-trolls)."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+#image_preview = "bubbles.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+#tags = ["Trustworthy Social Media"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption 😄"
+
++++
+
+This project is a collaboration between machine learning researchers and social scientists. It is a joint effort by a group of undergraduates, graduate students, postdocs, and professors. Meet our team members [here](#contributors)! Check our medium posts for further reading [here](https://medium.com/trustworthy-social-media)!
+
+We aim to use AI techniques for building a more trustworthy social media. We work on online trolling detection, public discussion monitoring, social network analysis, and so on. Our research asks: *what a healthier public communication environment would be like in this era? And how can machine learning help?*
+
+We are supported by various funding resources, including [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126095&HistoricalAwards=false). We are also collaborating with industry partners, including Google, Twitter, Nvidia and Oracle. 
+
+Here are some featured projects:
+
+* Understanding the prominent #metoo movement: What are people talking about and how are different topics discussed?
+
+    * A word-embedding approach to discover new keywords for dynamic data collection with applications on multiple topics and discussion space: 
+
+        * [Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates](/files/social_projects/NeurIPS2019TwitterPosterOfficial.pdf). In Neurips workshp: AI for Social Good, 2019. [Paper](https://arxiv.org/abs/1911.05332)
+
+        * [Tracking Social Media Movements with Dynamic Keyword Algorithm](/files/social_projects/polmeth.pdf). In American Political Science Association Annal Meeting and Exhibition, 2020.
+
+        * [Dynamic Algorithms for Social Medial Troll Detection](/files/social_projects/wiml_maya.png). In ICML WIML Un-Workshop, 2020.
+
+        * [Dynamic Social Media Monitoring for Fast-Evolving Online Discussions](https://arxiv.org/abs/2102.12596). Presented at the SIGKDD 2021 Applied Data Science Track. [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467171) [Poster](/files/social_projects/2923.SrikanthM.pdf) [Video](https://drive.google.com/file/d/1coFJwZaMjyzBLdgN9BHQwg6Mh78mu00a/view?usp=sharing)
+
+    * A topic modeling method for capturing topic distributions and keywords that reveals how #MeToo got viral in 2017: [Understanding the Evolution of the #MeToo Movement Over Time Using Topic Models](/files/social_projects/wiml.png). In ICML WIML Un-Workshop, 2020. [Presentation](https://www.youtube.com/watch?v=yMk6rAHXK04)
+
+* A technical report on how to collect data for online discussions monitoring: [Reliable and Efficient Long-Term Social Media Monitoring](https://arxiv.org/abs/2005.02442v2). Under review. 
+
+* An analysis of leadership and communication dynamics between politic figures using social media data and NLP approaches: [Legislative Communication and Power: Measuring Leadership from Social Media Data](https://drive.google.com/file/d/10BUe9Gb4UV_r8fATn1xZibZQlrV7JVsJ/view?usp=sharing).
+
+* Understanding what has been discussed on social media during COVID-19: [Collecting, Preprocessing, and Analyzing Large-Scale Social Media Data: COVID-19 Case Study](https://www.youtube.com/watch?v=TBtX4dUMLKo). Presented at the CloudBank RRoCCET21 conference. [Slides](/files/social_projects/COVID_CloudBank_presentation_final.pdf)
+
 
 <!-- 2.Understanding the Anti-Asian sentiment during the COVID-19 pandemic: -->
 
-<p>Contributors<a name="contributors"></a>:</p>
+<!-- Contributors<a name="contributors"></a>: 
 
-<ul>
-<li><p>PIs: <a href="https://www.hss.caltech.edu/people/r-m-michael-alvarez" target="_blank">Mike Alvarez (Caltech)</a>, <a href="http://tensorlab.cms.caltech.edu/users/anima/" target="_blank">Anima Anandkumar (Caltech)</a>, <a href="https://anqiliu-ai.github.io/" target="_blank">Anqi Liu (JHU)</a></p></li>
+* PIs: [Mike Alvarez (Caltech)](https://www.hss.caltech.edu/people/r-m-michael-alvarez), [Anima Anandkumar (Caltech)](http://tensorlab.cms.caltech.edu/users/anima/), [Anqi Liu (JHU)](https://anqiliu-ai.github.io/)
 
-<li><p>Postdocs: <a href="https://www.hss.caltech.edu/people/jian-cao" target="_blank">Jian Cao</a>, <a href="https://rkocielnik.com/" target="_blank">Rafał Kocielnik</a></p></li>
+* Postdocs: [Jian Cao](https://www.hss.caltech.edu/people/jian-cao), [Rafał Kocielnik](https://rkocielnik.com/)
 
-<li><p>Graduate Students: <a href="https://www.linkedin.com/in/daniel-ebanks-9b89a298" target="_blank">Danny Ebanks</a>, <a href="https://www.hss.caltech.edu/people/jacob-morrier" target="_blank">Jacob Morrier</a>, <a href="https://www.hss.caltech.edu/people/zhuofang-li" target="_blank">Zhuofang Li</a>, <a href="https://www.hss.caltech.edu/people/claudia-kann" target="_blank">Claudia Kann</a>, <a href="https://scholar.google.com/citations?user=nm9qB7kAAAAJ&amp;hl=en" target="_blank">Md. Yasin Kabir</a></p></li>
+* Graduate Students: [Danny Ebanks](https://www.linkedin.com/in/daniel-ebanks-9b89a298), [Jacob Morrier](https://www.hss.caltech.edu/people/jacob-morrier), [Zhuofang Li](https://www.hss.caltech.edu/people/zhuofang-li), [Claudia Kann](https://www.hss.caltech.edu/people/claudia-kann), [Md. Yasin Kabir](https://scholar.google.com/citations?user=nm9qB7kAAAAJ&hl=en)
+ 
 
-<li><p>Undergraduate Students: <a href="https://www.linkedin.com/in/sara-kangaslahti" target="_blank">Sara Kangaslahti</a>, <a href="https://www.linkedin.com/in/sarah-hashash-65603a1a7" target="_blank">Sarah Hashash</a></p></li>
+* Undergraduate Students: [Sara Kangaslahti](https://www.linkedin.com/in/sara-kangaslahti), [Sarah Hashash](https://www.linkedin.com/in/sarah-hashash-65603a1a7)
 
-<li><p>Industry Collaborators: <a href="http://jeankossaifi.com/" target="_blank">Jean Kossaifi</a>, <a href="https://www.linkedin.com/in/tunguz" target="_blank">Bojan Tunguz</a></p></li>
+* Industry Collaborators: [Jean Kossaifi](http://jeankossaifi.com/), [Bojan Tunguz](https://www.linkedin.com/in/tunguz)
 
-<li><p>Past students and postdocs:</p>
+* Past students and postdocs: 
+    * [Nicholas Adams-Cohen](https://www.nadamscohen.com/), Now researcher at Accenture
 
-<ul>
-<li><p><a href="https://www.nadamscohen.com/" target="_blank">Nicholas Adams-Cohen</a>, Now researcher at Accenture</p></li>
+    * [Maya Srikanth](https://www.linkedin.com/in/maya-s-srikanth), Now graduate student at Stanford
 
-<li><p><a href="https://www.linkedin.com/in/maya-s-srikanth" target="_blank">Maya Srikanth</a>, Now graduate student at Stanford</p></li>
+    * [Shunto J. Kobayashi](https://www.linkedin.com/in/shunto-kobayashi-323015113)
+    * [Shiyu Zhang](https://www.linkedin.com/in/shiyu-zhang-1783608b)
 
-<li><p><a href="https://www.linkedin.com/in/shunto-kobayashi-323015113" target="_blank">Shunto J. Kobayashi</a></p></li>
 
-<li><p><a href="https://www.linkedin.com/in/shiyu-zhang-1783608b" target="_blank">Shiyu Zhang</a></p></li>
-</ul></li>
-</ul>
+
+ -->
+
+<p>&ndash;&gt;</p>
 
     </div>
 
