@@ -110,7 +110,7 @@
     "section": "project",
     "summary": "We aim to tackle two key challenges in model auditing for safeguarding AI. The first is the ubiquitous distribution shift, especially subpopulation shift. The second is that many UQ approaches require either intensive computing power or an impractical amount or quality of data that may be unavailable in real-world scenarios. Media Coverage: [Putting trust to the test](https://www.cs.jhu.edu/news/putting-trust-to-the-test/).",
     "tags": null,
-    "title": "UQ for AI Safety and Fairness",
+    "title": "UQ for Trustworthy AI",
     "type": "project"
   }
 ]
